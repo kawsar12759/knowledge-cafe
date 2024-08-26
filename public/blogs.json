@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "cover": "https://example.com/images/blog1.jpg",
+        "cover": "https://i.ibb.co/bFyShhL/ai-nuclear-energy-background-future-innovation-disruptive-technology-1.jpg",
         "title": "The Future of AI: Trends to Watch in 2024",
         "author": "Jane Doe",
-        "author_img": "https://example.com/images/author1.jpg",
+        "author_img": "https://i.ibb.co/kDM5BKR/360-F-584652599-s89ly-Uh-PSMf-X5-Ys-Rl-Ksa1-Agl-JT7v-Nio-O.jpg",
         "posted_date": "2024-08-20",
         "reading_time": 8,
         "hashtags": [
@@ -15,10 +15,10 @@
     },
     {
         "id": 2,
-        "cover": "https://example.com/images/blog2.jpg",
+        "cover": "https://i.ibb.co/cQhTDJW/select-focus-clock-with-beautiful-woman-working-bed-1.jpg",
         "title": "10 Tips for a Productive Morning Routine",
         "author": "John Smith",
-        "author_img": "https://example.com/images/author2.jpg",
+        "author_img": "https://i.ibb.co/17SmPqX/portrait-expressive-young-man-wearing-formal-suit.jpg",
         "posted_date": "2024-08-18",
         "reading_time": 5,
         "hashtags": [
@@ -29,10 +29,10 @@
     },
     {
         "id": 3,
-        "cover": "https://example.com/images/blog3.jpg",
+        "cover": "https://i.ibb.co/VgLs6C9/vacations-green-sun-resort-journey-1.jpg",
         "title": "Exploring the Best Travel Destinations in 2024",
         "author": "Emily Brown",
-        "author_img": "https://example.com/images/author3.jpg",
+        "author_img": "https://i.ibb.co/cFRkp6q/istockphoto-1163294201-612x612.jpg",
         "posted_date": "2024-08-15",
         "reading_time": 10,
         "hashtags": [
@@ -43,10 +43,10 @@
     },
     {
         "id": 4,
-        "cover": "https://example.com/images/blog4.jpg",
+        "cover": "https://i.ibb.co/9yTyF3P/forex-trade-graph-chart-concept-2.jpg",
         "title": "How to Invest Wisely in the Stock Market",
         "author": "Michael Lee",
-        "author_img": "https://example.com/images/author4.jpg",
+        "author_img": "https://i.ibb.co/CJnyWb1/smiling-happy-businessman-looking-camera.jpg",
         "posted_date": "2024-08-12",
         "reading_time": 7,
         "hashtags": [
@@ -57,10 +57,10 @@
     },
     {
         "id": 5,
-        "cover": "https://example.com/images/blog5.jpg",
+        "cover": "https://i.ibb.co/sJjrxPj/portrait-person-practicing-yoga-outdoors-nature.jpg",
         "title": "A Beginner's Guide to Meditation",
         "author": "Sarah Wilson",
-        "author_img": "https://example.com/images/author5.jpg",
+        "author_img": "https://i.ibb.co/NKmDZtF/business-woman-black-jacket-looking-camera.jpg",
         "posted_date": "2024-08-10",
         "reading_time": 6,
         "hashtags": [
