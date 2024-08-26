@@ -2,16 +2,16 @@ import PropTypes from 'prop-types';
 import { FaRegBookmark } from "react-icons/fa";
 
 const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
-    const { title, cover, reading_time, author, author_img, posted_date, hashtags } = blog;
+    const { id, title, cover, reading_time, author, author_img, posted_date, hashtags } = blog;
     return (
-        <div className='mt-8'>
+        <div className='mt-10'>
             <img className='w-full h-96 mb-8 rounded-lg' src={cover} alt="" />
             <div className='flex justify-between mb-4'>
                 <div className='flex'>
                     <img className='w-14 rounded-full' src={author_img} alt="" />
                     <div className='ml-6'>
-                        <h3 className='text-2xl'>{author}</h3>
-                        <p>{posted_date}</p>
+                        <h3 className='text-2xl font-bold'>{author}</h3>
+                        <p className='text-gray-400 text-base font-semibold'>{posted_date}</p>
                     </div>
                 </div>
                 <div className='flex items-center text-xl font-medium text-gray-400 '>
@@ -25,8 +25,10 @@ const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
                     hashtags.map((hash, idx) => <span key={idx}><a href=''>{hash} </a></span>)
                 }
             </p>
-            <button onClick={()=>handleMarkAsRead(reading_time)} className='text-purple-600 font-bold underline mt-2'>Mark as Read</button>
+            <button onClick={() => handleMarkAsRead(reading_time, id)} className='text-xl text-purple-600 font-bold underline mt-2'>Mark as Read</button>
+            
         </div>
+
     );
 };
 
